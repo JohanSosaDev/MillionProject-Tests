@@ -3,3 +3,4 @@ obj/
 TestResults/
 *.log
 coverage/
+.vs/
